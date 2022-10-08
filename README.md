@@ -10,7 +10,7 @@ vi webase-deploy/comm/check.py
     memFree=doCmd("top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1")
 ```
 
-修改构建脚本
+## 修改构建脚本
 ```
 vi webase-deploy/comm/build.py
         #Linux
