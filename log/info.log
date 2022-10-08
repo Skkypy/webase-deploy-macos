@@ -1,0 +1,1091 @@
+[2022-10-08 22:04:59] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:04:59] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:04:59] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:04:59] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:04:59] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-08 22:04:59] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-08 22:04:59] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-08 22:04:59] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-08 22:04:59] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-08 22:04:59] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-08 22:04:59] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-08 22:04:59] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-08 22:04:59] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-08 22:04:59] [INFO]  execute cmd  end ,cmd : which dos2unix,status :1 , output: 
+[2022-10-08 22:05:52] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:05:52] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:05:52] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:05:52] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:05:52] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-08 22:05:52] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-08 22:05:52] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-08 22:05:52] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-08 22:05:52] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-08 22:05:52] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-08 22:05:52] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-08 22:05:52] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-08 22:05:52] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-08 22:05:52] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-08 22:05:52] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:05:52] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:05:52] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:05:52] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:05:52] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:05:52] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:05:52] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-08 22:05:52] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-08 22:05:52] [INFO]  execute cmd  start ,cmd : awk '($1 == "MemFree:"){print $2/1024}' /proc/meminfo 2>&1
+[2022-10-08 22:05:52] [INFO]  execute cmd  end ,cmd : awk '($1 == "MemFree:"){print $2/1024}' /proc/meminfo 2>&1,status :2 , output: awk: can't open file /proc/meminfo
+ source line number 1
+[2022-10-08 22:06:05] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:06:05] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:06:05] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:06:05] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:06:05] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-08 22:06:05] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-08 22:06:05] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-08 22:06:05] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-08 22:06:05] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-08 22:06:05] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-08 22:06:05] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-08 22:06:05] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-08 22:06:05] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-08 22:06:05] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-08 22:06:05] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:06:05] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:06:05] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:06:05] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:06:05] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:06:05] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:06:05] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-08 22:06:05] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-08 22:06:05] [INFO]  execute cmd  start ,cmd : awk '($1 == "MemFree:"){print $2/1024}' /proc/meminfo 2>&1
+[2022-10-08 22:06:05] [INFO]  execute cmd  end ,cmd : awk '($1 == "MemFree:"){print $2/1024}' /proc/meminfo 2>&1,status :2 , output: awk: can't open file /proc/meminfo
+ source line number 1
+[2022-10-08 22:20:37] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:20:37] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:20:37] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:20:37] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:20:37] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-08 22:20:37] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-08 22:20:37] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-08 22:20:37] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-08 22:20:37] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-08 22:20:37] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-08 22:20:37] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-08 22:20:37] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-08 22:20:37] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-08 22:20:37] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-08 22:20:37] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:20:37] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:20:37] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:20:37] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:20:37] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:20:37] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:20:37] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-08 22:20:37] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-08 22:20:37] [INFO]  execute cmd  start ,cmd : awk '($1 == "MemFree:"){print $2/1024}' /proc/meminfo 2>&1
+[2022-10-08 22:20:37] [INFO]  execute cmd  end ,cmd : awk '($1 == "MemFree:"){print $2/1024}' /proc/meminfo 2>&1,status :2 , output: awk: can't open file /proc/meminfo
+ source line number 1
+[2022-10-08 22:36:40] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:36:40] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:36:40] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:36:40] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:36:40] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-08 22:36:40] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-08 22:36:40] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-08 22:36:40] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-08 22:36:40] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-08 22:36:40] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-08 22:36:40] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-08 22:36:40] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-08 22:36:40] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-08 22:36:40] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-08 22:36:40] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:36:40] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:36:40] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:36:40] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:36:40] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:36:40] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:36:40] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-08 22:36:40] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-08 22:36:40] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}'
+[2022-10-08 22:36:41] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}',status :0 , output: 136M
+[2022-10-08 22:39:55] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:55] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:55] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:55] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:55] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-08 22:39:55] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-08 22:39:55] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-08 22:39:55] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-08 22:39:55] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-08 22:39:55] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-08 22:39:55] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-08 22:39:55] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-08 22:39:55] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-08 22:39:55] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-08 22:39:55] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:55] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:55] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:55] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:55] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:55] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:55] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-08 22:39:55] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-08 22:39:55] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1
+[2022-10-08 22:39:56] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1,status :0 , output: 48
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]  execute cmd  start ,cmd : which nginx
+[2022-10-08 22:39:56] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/local/bin/nginx
+[2022-10-08 22:39:56] [INFO]  execute cmd  start ,cmd : java -version
+[2022-10-08 22:39:56] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: java version "1.8.0_171"
+Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
+[2022-10-08 22:39:56] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2022-10-08 22:39:56] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:39:56] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:39:56] [INFO] mgr mysql user/password error Traceback (most recent call last):
+  File "/Users/owner/webase3/webase-deploy/comm/mysql.py", line 144, in checkMgrDbAuthorized
+    conn = mdb.connect(host=mysql_ip, port=mysql_port, user=mysql_user, passwd=mysql_password)
+  File "/usr/local/lib/python3.6/site-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/pymysql/connections.py", line 325, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.6/site-packages/pymysql/connections.py", line 599, in connect
+    self._request_authentication()
+  File "/usr/local/lib/python3.6/site-packages/pymysql/connections.py", line 871, in _request_authentication
+    auth_packet = self._process_auth(plugin_name, auth_packet)
+  File "/usr/local/lib/python3.6/site-packages/pymysql/connections.py", line 942, in _process_auth
+    pkt = self._read_packet()
+  File "/usr/local/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/local/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user 'webase'@'localhost' (using password: YES)")
+
+[2022-10-08 22:53:30] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:53:30] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:53:30] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:53:30] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:53:30] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-08 22:53:30] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-08 22:53:30] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-08 22:53:30] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-08 22:53:30] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-08 22:53:30] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-08 22:53:30] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-08 22:53:30] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-08 22:53:30] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-08 22:53:30] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-08 22:53:30] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:53:30] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:53:30] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:53:30] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:53:30] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:53:30] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:53:30] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-08 22:53:30] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-08 22:53:30] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1
+[2022-10-08 22:53:31] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1,status :0 , output: 56
+[2022-10-08 22:53:31] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:53:31] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:53:31] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:53:31] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:53:31] [INFO]  execute cmd  start ,cmd : which nginx
+[2022-10-08 22:53:31] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/local/bin/nginx
+[2022-10-08 22:53:31] [INFO]  execute cmd  start ,cmd : java -version
+[2022-10-08 22:53:31] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: java version "1.8.0_211"
+Java(TM) SE Runtime Environment (build 1.8.0_211-b12)
+Java HotSpot(TM) 64-Bit Server VM (build 25.211-b12, mixed mode)
+[2022-10-08 22:53:31] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2022-10-08 22:53:31] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: 
+[2022-10-08 22:59:58] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:59:58] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:59:58] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:59:58] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:59:58] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-08 22:59:58] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-08 22:59:58] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-08 22:59:58] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-08 22:59:58] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-08 22:59:58] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-08 22:59:58] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-08 22:59:58] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-08 22:59:58] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-08 22:59:58] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-08 22:59:58] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:59:58] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:59:58] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:59:58] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:59:58] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:59:58] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:59:58] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-08 22:59:58] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-08 22:59:58] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1
+[2022-10-08 22:59:59] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1,status :0 , output: 39
+[2022-10-08 22:59:59] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:59:59] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:59:59] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 22:59:59] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 22:59:59] [INFO]  execute cmd  start ,cmd : which nginx
+[2022-10-08 22:59:59] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/local/bin/nginx
+[2022-10-08 22:59:59] [INFO]  execute cmd  start ,cmd : java -version
+[2022-10-08 23:00:00] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: java version "1.8.0_171"
+Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
+[2022-10-08 23:00:00] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2022-10-08 23:00:00] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:00:00] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:00:00] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:49] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:49] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:49] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:49] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:49] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-08 23:01:49] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-08 23:01:49] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-08 23:01:49] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-08 23:01:49] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-08 23:01:49] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-08 23:01:49] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-08 23:01:49] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-08 23:01:49] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-08 23:01:49] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-08 23:01:49] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:49] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:49] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:49] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:49] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:49] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:49] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-08 23:01:49] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-08 23:01:49] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1
+[2022-10-08 23:01:50] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1,status :0 , output: 162
+[2022-10-08 23:01:50] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:50] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:50] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:50] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:50] [INFO]  execute cmd  start ,cmd : which nginx
+[2022-10-08 23:01:50] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/local/bin/nginx
+[2022-10-08 23:01:50] [INFO]  execute cmd  start ,cmd : java -version
+[2022-10-08 23:01:51] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: java version "1.8.0_171"
+Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
+[2022-10-08 23:01:51] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2022-10-08 23:01:51] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-08 23:01:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-08 23:01:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:16] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:16] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:16] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:16] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:16] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-09 00:40:16] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-09 00:40:16] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-09 00:40:16] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-09 00:40:16] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-09 00:40:16] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-09 00:40:16] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-09 00:40:16] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-09 00:40:16] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-09 00:40:16] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-09 00:40:16] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:16] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:16] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:16] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:16] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:16] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:16] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-09 00:40:16] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-09 00:40:16] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1
+[2022-10-09 00:40:17] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1,status :0 , output: 26
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]  execute cmd  start ,cmd : which nginx
+[2022-10-09 00:40:17] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/local/bin/nginx
+[2022-10-09 00:40:17] [INFO]  execute cmd  start ,cmd : java -version
+[2022-10-09 00:40:17] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: java version "1.8.0_171"
+Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
+[2022-10-09 00:40:17] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2022-10-09 00:40:17] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:40:17] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:40:17] [INFO] mgr mysql user/password error Traceback (most recent call last):
+  File "/Users/owner/webase3/webase-deploy/comm/mysql.py", line 144, in checkMgrDbAuthorized
+    conn = mdb.connect(host=mysql_ip, port=mysql_port, user=mysql_user, passwd=mysql_password)
+  File "/usr/local/lib/python3.6/site-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/local/lib/python3.6/site-packages/pymysql/connections.py", line 325, in __init__
+    self.connect()
+  File "/usr/local/lib/python3.6/site-packages/pymysql/connections.py", line 599, in connect
+    self._request_authentication()
+  File "/usr/local/lib/python3.6/site-packages/pymysql/connections.py", line 871, in _request_authentication
+    auth_packet = self._process_auth(plugin_name, auth_packet)
+  File "/usr/local/lib/python3.6/site-packages/pymysql/connections.py", line 942, in _process_auth
+    pkt = self._read_packet()
+  File "/usr/local/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/local/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+
+[2022-10-09 00:41:32] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:32] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:32] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:32] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:32] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-09 00:41:32] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-09 00:41:32] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-09 00:41:32] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-09 00:41:32] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-09 00:41:32] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-09 00:41:32] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-09 00:41:32] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-09 00:41:32] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-09 00:41:32] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-09 00:41:32] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:32] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:32] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:32] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:32] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:32] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:32] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-09 00:41:32] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-09 00:41:32] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1
+[2022-10-09 00:41:33] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1,status :0 , output: 113
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]  execute cmd  start ,cmd : which nginx
+[2022-10-09 00:41:33] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/local/bin/nginx
+[2022-10-09 00:41:33] [INFO]  execute cmd  start ,cmd : java -version
+[2022-10-09 00:41:33] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: java version "1.8.0_171"
+Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
+[2022-10-09 00:41:33] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2022-10-09 00:41:33] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO] check mgr db user/password correct!
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO] check sign db user/password correct!
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO] checking node-mgr's mysql version
+[2022-10-09 00:41:33] [INFO] version match is:[<_sre.SRE_Match object; span=(0, 6), match='8.0.30'>]
+[2022-10-09 00:41:33] [INFO] check mgr db version correct!
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO] checking sign's mysql version
+[2022-10-09 00:41:33] [INFO] version match is:[<_sre.SRE_Match object; span=(0, 6), match='8.0.30'>]
+[2022-10-09 00:41:33] [INFO] check sign db version correct!
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:41:33] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:41:33] [INFO]  execute cmd  start ,cmd : cp -f nodeconf nodetemp
+[2022-10-09 00:41:33] [INFO]  execute cmd  end ,cmd : cp -f nodeconf nodetemp,status :0 , output: 
+[2022-10-09 00:41:33] [INFO]  execute cmd  start ,cmd : sed -i "s/nodeCounts/2/g" nodeconf
+[2022-10-09 00:41:33] [INFO]  execute cmd  end ,cmd : sed -i "s/nodeCounts/2/g" nodeconf,status :1 , output: sed: 1: "nodeconf": extra characters at the end of n command
+[2022-10-09 00:48:42] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:42] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:42] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:42] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:42] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-09 00:48:42] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-09 00:48:42] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-09 00:48:42] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-09 00:48:42] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-09 00:48:42] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-09 00:48:42] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-09 00:48:42] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-09 00:48:42] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-09 00:48:42] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-09 00:48:42] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:42] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:42] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:42] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:42] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:42] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:42] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-09 00:48:42] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-09 00:48:42] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1
+[2022-10-09 00:48:43] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1,status :0 , output: 77
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]  execute cmd  start ,cmd : which nginx
+[2022-10-09 00:48:43] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/local/bin/nginx
+[2022-10-09 00:48:43] [INFO]  execute cmd  start ,cmd : java -version
+[2022-10-09 00:48:43] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: java version "1.8.0_171"
+Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
+[2022-10-09 00:48:43] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2022-10-09 00:48:43] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO] check mgr db user/password correct!
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO] check sign db user/password correct!
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO] checking node-mgr's mysql version
+[2022-10-09 00:48:43] [INFO] version match is:[<_sre.SRE_Match object; span=(0, 6), match='8.0.30'>]
+[2022-10-09 00:48:43] [INFO] check mgr db version correct!
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO] checking sign's mysql version
+[2022-10-09 00:48:43] [INFO] version match is:[<_sre.SRE_Match object; span=(0, 6), match='8.0.30'>]
+[2022-10-09 00:48:43] [INFO] check sign db version correct!
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:48:43] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:48:43] [INFO]  execute cmd  start ,cmd : cp -f nodetemp nodeconf
+[2022-10-09 00:48:43] [INFO]  execute cmd  end ,cmd : cp -f nodetemp nodeconf,status :0 , output: 
+[2022-10-09 00:48:43] [INFO]  execute cmd  start ,cmd : sed -i "s/nodeCounts/2/g" nodeconf
+[2022-10-09 00:48:43] [INFO]  execute cmd  end ,cmd : sed -i "s/nodeCounts/2/g" nodeconf,status :1 , output: sed: 1: "nodeconf": extra characters at the end of n command
+[2022-10-09 00:50:50] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:50] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:50] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:50] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:50] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-09 00:50:50] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-09 00:50:50] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-09 00:50:50] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-09 00:50:50] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-09 00:50:50] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-09 00:50:50] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-09 00:50:50] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-09 00:50:50] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-09 00:50:50] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-09 00:50:50] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:50] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:50] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:50] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:50] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:50] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:50] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-09 00:50:50] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-09 00:50:50] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1
+[2022-10-09 00:50:51] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1,status :0 , output: 63
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]  execute cmd  start ,cmd : which nginx
+[2022-10-09 00:50:51] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/local/bin/nginx
+[2022-10-09 00:50:51] [INFO]  execute cmd  start ,cmd : java -version
+[2022-10-09 00:50:51] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: java version "1.8.0_171"
+Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
+[2022-10-09 00:50:51] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2022-10-09 00:50:51] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO] check mgr db user/password correct!
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO] check sign db user/password correct!
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO] checking node-mgr's mysql version
+[2022-10-09 00:50:51] [INFO] version match is:[<_sre.SRE_Match object; span=(0, 6), match='8.0.30'>]
+[2022-10-09 00:50:51] [INFO] check mgr db version correct!
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO] checking sign's mysql version
+[2022-10-09 00:50:51] [INFO] version match is:[<_sre.SRE_Match object; span=(0, 6), match='8.0.30'>]
+[2022-10-09 00:50:51] [INFO] check sign db version correct!
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:50:51] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:50:51] [INFO]  execute cmd  start ,cmd : cp -f nodetemp nodeconf
+[2022-10-09 00:50:51] [INFO]  execute cmd  end ,cmd : cp -f nodetemp nodeconf,status :0 , output: 
+[2022-10-09 00:50:51] [INFO]  execute cmd  start ,cmd : sed -i "s/nodeCounts/2/g" nodeconf
+[2022-10-09 00:50:51] [INFO]  execute cmd  end ,cmd : sed -i "s/nodeCounts/2/g" nodeconf,status :1 , output: sed: 1: "nodeconf": extra characters at the end of n command
+[2022-10-09 00:54:24] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:24] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:24] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:24] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:24] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-09 00:54:24] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-09 00:54:24] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-09 00:54:24] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-09 00:54:24] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-09 00:54:24] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-09 00:54:24] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-09 00:54:24] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-09 00:54:24] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-09 00:54:24] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-09 00:54:24] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:24] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:24] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:24] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:24] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:24] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:24] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-09 00:54:24] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-09 00:54:24] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1
+[2022-10-09 00:54:26] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1,status :0 , output: 43
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]  execute cmd  start ,cmd : which nginx
+[2022-10-09 00:54:26] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/local/bin/nginx
+[2022-10-09 00:54:26] [INFO]  execute cmd  start ,cmd : java -version
+[2022-10-09 00:54:26] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: java version "1.8.0_171"
+Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
+[2022-10-09 00:54:26] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2022-10-09 00:54:26] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO] check mgr db user/password correct!
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO] check sign db user/password correct!
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO] checking node-mgr's mysql version
+[2022-10-09 00:54:26] [INFO] version match is:[<_sre.SRE_Match object; span=(0, 6), match='8.0.30'>]
+[2022-10-09 00:54:26] [INFO] check mgr db version correct!
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:26] [INFO] checking sign's mysql version
+[2022-10-09 00:54:26] [INFO] version match is:[<_sre.SRE_Match object; span=(0, 6), match='8.0.30'>]
+[2022-10-09 00:54:26] [INFO] check sign db version correct!
+[2022-10-09 00:54:26] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:26] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:27] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:27] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:27] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:27] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:27] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:27] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:27] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:27] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:27] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:27] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:27] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:27] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:27] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:27] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:27] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:54:27] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:54:27] [INFO]  execute cmd  start ,cmd : cp -f nodetemp nodeconf
+[2022-10-09 00:54:27] [INFO]  execute cmd  end ,cmd : cp -f nodetemp nodeconf,status :0 , output: 
+[2022-10-09 00:54:27] [INFO]  execute cmd  start ,cmd : sed -i "" "s/nodeCounts\/2/g" nodeconf
+[2022-10-09 00:54:27] [INFO]  execute cmd  end ,cmd : sed -i "" "s/nodeCounts\/2/g" nodeconf,status :1 , output: sed: 1: "s/nodeCounts\/2/g": unterminated substitute in regular expression
+[2022-10-09 00:58:01] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:01] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:01] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:01] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:01] [INFO]  execute cmd  start ,cmd : which git
+[2022-10-09 00:58:01] [INFO]  execute cmd  end ,cmd : which git,status :0 , output: /usr/local/bin/git
+[2022-10-09 00:58:01] [INFO]  execute cmd  start ,cmd : which openssl
+[2022-10-09 00:58:01] [INFO]  execute cmd  end ,cmd : which openssl,status :0 , output: /usr/bin/openssl
+[2022-10-09 00:58:01] [INFO]  execute cmd  start ,cmd : which curl
+[2022-10-09 00:58:01] [INFO]  execute cmd  end ,cmd : which curl,status :0 , output: /usr/bin/curl
+[2022-10-09 00:58:01] [INFO]  execute cmd  start ,cmd : which wget
+[2022-10-09 00:58:01] [INFO]  execute cmd  end ,cmd : which wget,status :0 , output: /usr/local/bin/wget
+[2022-10-09 00:58:01] [INFO]  execute cmd  start ,cmd : which dos2unix
+[2022-10-09 00:58:01] [INFO]  execute cmd  end ,cmd : which dos2unix,status :0 , output: /usr/local/bin/dos2unix
+[2022-10-09 00:58:01] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:01] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:01] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:01] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:01] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:01] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:01] [INFO] checkVersionUtil webase: v1.5.4 and fisco version: v3.0.0-rc2
+[2022-10-09 00:58:01] [INFO] checkVersionUtil int webase: 154 and fisco version: 300
+[2022-10-09 00:58:01] [INFO]  execute cmd  start ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1
+[2022-10-09 00:58:02] [INFO]  execute cmd  end ,cmd : top -l 1 | head -n 10 | grep PhysMem | awk '{print $6}' | cut -d'M' -f1,status :0 , output: 29
+[2022-10-09 00:58:02] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:02] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:02] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:02] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:02] [INFO]  execute cmd  start ,cmd : which nginx
+[2022-10-09 00:58:02] [INFO]  execute cmd  end ,cmd : which nginx,status :0 , output: /usr/local/bin/nginx
+[2022-10-09 00:58:02] [INFO]  execute cmd  start ,cmd : java -version
+[2022-10-09 00:58:03] [INFO]  execute cmd  end ,cmd : java -version,status :0 , output: java version "1.8.0_171"
+Java(TM) SE Runtime Environment (build 1.8.0_171-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 25.171-b11, mixed mode)
+[2022-10-09 00:58:03] [INFO]  execute cmd  start ,cmd : echo $JAVA_HOME
+[2022-10-09 00:58:03] [INFO]  execute cmd  end ,cmd : echo $JAVA_HOME,status :0 , output: /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO] check mgr db user/password correct!
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO] check sign db user/password correct!
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO] checking node-mgr's mysql version
+[2022-10-09 00:58:03] [INFO] version match is:[<_sre.SRE_Match object; span=(0, 6), match='8.0.30'>]
+[2022-10-09 00:58:03] [INFO] check mgr db version correct!
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO] checking sign's mysql version
+[2022-10-09 00:58:03] [INFO] version match is:[<_sre.SRE_Match object; span=(0, 6), match='8.0.30'>]
+[2022-10-09 00:58:03] [INFO] check sign db version correct!
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]  execute cmd  start ,cmd : cp -f nodetemp nodeconf
+[2022-10-09 00:58:03] [INFO]  execute cmd  end ,cmd : cp -f nodetemp nodeconf,status :0 , output: 
+[2022-10-09 00:58:03] [INFO]  execute cmd  start ,cmd : sed -i "" "s|nodeCounts|2|g" nodeconf
+[2022-10-09 00:58:03] [INFO]  execute cmd  end ,cmd : sed -i "" "s|nodeCounts|2|g" nodeconf,status :0 , output: 
+[2022-10-09 00:58:03] [INFO]  execute cmd  start ,cmd : dos2unix nodeconf
+[2022-10-09 00:58:03] [INFO]  execute cmd  end ,cmd : dos2unix nodeconf,status :0 , output: dos2unix: converting file nodeconf to Unix format...
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
+[2022-10-09 00:58:03] [INFO]   os.getcwd() is /Users/owner/webase3/webase-deploy
+[2022-10-09 00:58:03] [INFO]  commProperties is /Users/owner/webase3/webase-deploy/common.properties 
